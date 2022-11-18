@@ -1,0 +1,18 @@
+[{
+  "id": 1,
+  "userName": "azamjon",
+  "password": "1999",
+  "subjects": [
+    "Java",
+    "Database"
+  ]
+},
+{
+  "id": 2,
+  "userName": "elshod",
+  "password": "2003",
+  "subjects": [
+    "Python",
+    "Database"
+  ]
+}]

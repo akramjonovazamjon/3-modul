@@ -1,0 +1,9 @@
+diyor 10
+sardor 10.25
+dilshod -5
+o`ktam 48
+alibek 65
+null 55
+null 65
+null 558
+null 66
